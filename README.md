@@ -1,7 +1,8 @@
 install & Run
+
 pip install psutil
 python mini_cyber_toolkit.py
-
+___________________________________
 1- Password Generator
 
 Select: 1
